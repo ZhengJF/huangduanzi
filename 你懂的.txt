@@ -1,5 +1,8 @@
 wo zheng mou da hao nan er....
+<<<<<<< HEAD
 
 add this line to branch
 
 ÐÕÖ£µÄÒ²¸Ò×Ô³ÆºÃÄÐ¶ù£¿Ð¦µôµËÄ³´óÑÀ£¬¹þ¹þ¹þ¹þ¡­¡­
+=======
+>>>>>>> parent of e3e2d17... add text to branch..
