@@ -5,8 +5,5 @@
 6
 5
 7
-<<<<<<< HEAD
 9
-=======
-8
->>>>>>> origin/master
+hello world
